@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Franciline, I'm currently a Computer Science student at Sorbonne University in Paris. </br>
+My preferred coding languages: Python, C and Bash!
+
+
 <!--
 **Franciline/Franciline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
