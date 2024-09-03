@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm Franciline, I'm currently a Computer Science student at Sorbonne University in Paris. </br>
-My preferred coding languages: Python, C and Bash!
+I'm Franciline! Currently a Computer Science student at Sorbonne University in Paris. </br>
+My favorite coding languages: Python, C and Bash!
 
 
 <!--
