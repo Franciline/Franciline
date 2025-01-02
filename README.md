@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Franciline! Currently a Computer Science student at Sorbonne University in Paris. </br>
+I'm Amélie aka Franciline! </br> 
+Currently a Computer Science student at Sorbonne University - Paris. </br>
 My favorite coding languages: Python, C and Bash!
-
 
 <!--
 **Franciline/Franciline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
