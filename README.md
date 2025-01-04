@@ -1,12 +1,18 @@
 ## Hi, I'm Amélie👋
 
 I'm Amélie aka Franciline! </br> 
-
-
-
 Currently a Computer Science student at Sorbonne University - Paris. </br>
+### Tools and Languages
+![My Skills](https://skillicons.dev/icons?i=python,c,java,ocaml,html,javascript,css,flask,latex,linux&perline=5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciline&size_weight=0.5&count_weight=0.5&layout=compact&card_width=450)
+### Some statistics
+
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=franciline&show_icons=true&theme=transparent&theme=tokyonight&rank_icon=github" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franciline&size_weight=0.5&count_weight=0.5&layout=compact" />
+</a>
 
 <!--
 **Franciline/Franciline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +28,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Franciline's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciline&show_icons=true&theme=transparent&theme=tokyonight&rank_icon=github)
+
+</br> </br>
+[![linkdin link](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/am%C3%A9lie-chu-123101233/)
+[![discord link](https://skillicons.dev/icons?i=discord)](https://www.discord.com/users/888881220275044413)
+
