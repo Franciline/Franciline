@@ -1,8 +1,12 @@
-## Hi there 👋
+## Hi, I'm Amélie👋
 
 I'm Amélie aka Franciline! </br> 
+
+
+
 Currently a Computer Science student at Sorbonne University - Paris. </br>
-My favorite coding languages: Python, C and Bash!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciline&size_weight=0.5&count_weight=0.5&layout=compact&card_width=450)
 
 <!--
 **Franciline/Franciline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Franciline's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciline&show_icons=true&theme=transparent&theme=tokyonight&rank_icon=github)
