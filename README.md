@@ -1,6 +1,5 @@
 ## Hi, I'm Amélie👋
 
-I'm Amélie aka Franciline! </br> 
 Currently a Computer Science student at Sorbonne University - Paris. </br>
 ### Tools and Languages
 ![My Skills](https://skillicons.dev/icons?i=python,c,java,ocaml,html,javascript,css,flask,latex,linux&perline=5)
