@@ -1,8 +1,8 @@
 ## Hi, I'm Amélie👋
 
 Master's student at Sorbonne University - Paris. </br>
-Focused on Artificial Intelligence, Data Science, Natural Language Processing, Machine Learning, and Deep Learning.
-Driven to tackle real-world challenges.
+Focused on Artificial Intelligence, Data Science, Natural Language Processing, Machine Learning, and Deep Learning, I am
+driven to tackle real-world challenges.
 
 ### Tools and Languages
 ![My Skills](https://skillicons.dev/icons?i=python,c,latex,linux&perline=5)
