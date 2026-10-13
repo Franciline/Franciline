@@ -30,7 +30,7 @@ Benchmarked lexical and neural retrieval methods on 298K Stack Overflow Q&A pair
 - **Methods:** BM25, TF-IDF, IBM Model 1, HNSW, Sentence Transformers
 - **Results:** Recall@100 improved from 0.20 to 0.57
 
-### [Sentiment & Speech Classification](https://github.com/alan-man/tal-projet)
+#### [Sentiment & Speech Classification](https://github.com/alan-man/tal-projet)
 Explored traditional NLP and deep learning approaches for speaker identification and movie-review sentiment classification.
 
 - **Methods:** Topic Models, RNNs, BERT, RoBERTa, Fine-tuning
