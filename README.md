@@ -1,8 +1,11 @@
 ## Hi, I'm Amélie👋
 
 Master's student at Sorbonne University - Paris. </br>
-Interested in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing, with a particular focus on applying AI to real-world problems.
+Interested in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing, with a particular focus on applying AI to real-world problems.</br>
 
+
+[LinkedIn](https://www.linkedin.com/in/amelie-chu/)
+[Website](https://franciline.github.io)</br>
 ## Selected Projects
 
 #### Brain MRI Tumor Classification & Segmentation
@@ -37,6 +40,4 @@ Explored traditional NLP and deep learning approaches for speaker identification
 - **Results:** F1 improved from 0.62 to 0.81
                                                    
 
-[LinkedIn](https://www.linkedin.com/in/amelie-chu/)
-[Website](https://franciline.github.io)</br>
 
